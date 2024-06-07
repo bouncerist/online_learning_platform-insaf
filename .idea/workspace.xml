@@ -4,27 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80e60347-e26a-42c4-899e-120a34e68e6c" name="Changes" comment="online-learning-platform" />
+    <list default="true" id="80e60347-e26a-42c4-899e-120a34e68e6c" name="Changes" comment="online-learning-platform">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "bouncerist"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bouncerist&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/bouncerist/online_learning_platform-insaf.git",
-    "accountId": "3c381833-5ab0-47eb-8563-832ba4d3068c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bouncerist/online_learning_platform-insaf.git&quot;,
+    &quot;accountId&quot;: &quot;3c381833-5ab0-47eb-8563-832ba4d3068c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -39,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/insaf/OneDrive/Рабочий стол/online_learning_platform-main",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -58,6 +61,54 @@
       <option name="presentableId" value="Default" />
       <updated>1717739424091</updated>
     </task>
+    <task id="LOCAL-00001" summary="online-learning-platform">
+      <option name="closed" value="true" />
+      <created>1717753410312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717753410313</updated>
+    </task>
+    <task id="LOCAL-00002" summary="online-learning-platform">
+      <option name="closed" value="true" />
+      <created>1717755270360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717755270360</updated>
+    </task>
+    <task id="LOCAL-00003" summary="online-learning-platform">
+      <option name="closed" value="true" />
+      <created>1717755654716</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717755654716</updated>
+    </task>
+    <task id="LOCAL-00004" summary="online-learning-platform">
+      <option name="closed" value="true" />
+      <created>1717756029919</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717756029919</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="online-learning-platform" />
+    <option name="LAST_COMMIT_MESSAGE" value="online-learning-platform" />
   </component>
 </project>
